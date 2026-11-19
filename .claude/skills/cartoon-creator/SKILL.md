@@ -1,4 +1,3 @@
-
 ---
 name: cartoon-creator
 description: Creates complete AI animated cartoons with creative scripts, consistent 3D characters, Uzbek dialogue, scene-by-scene video prompts, voiceover, sound design, and editing plans. Use when creating cartoons, animations, or educational animated videos.
